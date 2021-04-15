@@ -6,13 +6,84 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <TextView
+    <EditText
+        android:id="@+id/et_mainscreen_email"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        android:ems="10"
+        android:hint="Email"
+        android:inputType="textEmailAddress"
+        app:layout_constraintBottom_toTopOf="@+id/et_mainscreen_password"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/iv_mainscreen_fruits" />
 
+    <EditText
+        android:id="@+id/et_mainscreen_password"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Password"
+        android:inputType="textPassword"
+        app:layout_constraintBottom_toTopOf="@+id/bt_mainscreen_signin"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/et_mainscreen_email" />
+
+    <Button
+        android:id="@+id/bt_mainscreen_signin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Signin"
+        app:layout_constraintBottom_toTopOf="@+id/bt_mainscreen_signup"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/et_mainscreen_password" />
+
+    <Button
+        android:id="@+id/bt_mainscreen_signup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SIGNUP"
+        app:layout_constraintBottom_toTopOf="@+id/tv_mainscreen_forgot"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/bt_mainscreen_signin" />
+
+    <ImageView
+        android:id="@+id/iv_mainscreen_fruits"
+        android:layout_width="409dp"
+        android:layout_height="297dp"
+        android:alpha="0.8"
+        android:contextClickable="true"
+        android:scaleType="fitXY"
+        android:textAlignment="viewStart"
+        android:textDirection="anyRtl"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/mainscreen_logo" />
+
+    <TextView
+        android:id="@+id/tv_mainscreen_forgot"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Forgot your password? Click here!"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/bt_mainscreen_signup" />
+
+    <TextView
+        android:id="@+id/tv_mainscreen_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nutrição"
+        android:textColor="#FFFFFF"
+        android:textSize="36sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/iv_mainscreen_fruits"
+        app:layout_constraintEnd_toEndOf="@+id/iv_mainscreen_fruits"
+        app:layout_constraintStart_toStartOf="@+id/iv_mainscreen_fruits"
+        app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>

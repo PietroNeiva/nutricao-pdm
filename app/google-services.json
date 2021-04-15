@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1022962979611",
+    "project_id": "nutricao-pdm",
+    "storage_bucket": "nutricao-pdm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022962979611:android:ed487736642eef4adeb9be",
+        "android_client_info": {
+          "package_name": "br.iesb.mobile.nutricaopdm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022962979611-j0njkpo7cvtsfjqg8tqm2klofpeg9flk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdgj5haBpTgbJhcXo7mprNjpWaopB_2Go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022962979611-j0njkpo7cvtsfjqg8tqm2klofpeg9flk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
