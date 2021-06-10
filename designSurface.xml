@@ -3,6 +3,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../private/var/root/AndroidStudioProjects/nutricao-pdm2/app/src/main/res/layout/activity_forgot.xml" value="0.1" />
+        <entry key="../../../../private/var/root/AndroidStudioProjects/nutricao-pdm2/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="../../../../private/var/root/AndroidStudioProjects/nutricao-pdm2/app/src/main/res/layout/activity_main.xml" value="0.15217391304347827" />
+        <entry key="../../../../private/var/root/AndroidStudioProjects/nutricao-pdm2/app/src/main/res/layout/activity_signup.xml" value="0.1" />
+        <entry key="../../../../private/var/root/AndroidStudioProjects/nutricao-pdm2/app/src/main/res/layout/activity_slides.xml" value="0.1" />
+        <entry key="../../../../private/var/root/AndroidStudioProjects/nutricao-pdm2/app/src/main/res/layout/fragment_new_home.xml" value="0.1" />
+        <entry key="../../../../private/var/root/AndroidStudioProjects/nutricao-pdm2/app/src/main/res/layout/item_list_food.xml" value="0.1" />
       </map>
     </option>
   </component>
