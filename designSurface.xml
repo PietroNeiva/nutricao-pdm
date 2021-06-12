@@ -9,11 +9,30 @@
         <entry key="../../../../private/var/root/AndroidStudioProjects/nutricao-pdm2/app/src/main/res/drawable/imagem_de_fundo.xml" value="0.21510416666666668" />
         <entry key="../../../../private/var/root/AndroidStudioProjects/nutricao-pdm2/app/src/main/res/layout/activity_forgot.xml" value="0.1" />
         <entry key="../../../../private/var/root/AndroidStudioProjects/nutricao-pdm2/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="../../../../private/var/root/AndroidStudioProjects/nutricao-pdm2/app/src/main/res/layout/activity_login.xml" value="0.1539855072463768" />
         <entry key="../../../../private/var/root/AndroidStudioProjects/nutricao-pdm2/app/src/main/res/layout/activity_main.xml" value="0.15217391304347827" />
         <entry key="../../../../private/var/root/AndroidStudioProjects/nutricao-pdm2/app/src/main/res/layout/activity_signup.xml" value="0.1" />
         <entry key="../../../../private/var/root/AndroidStudioProjects/nutricao-pdm2/app/src/main/res/layout/activity_slides.xml" value="0.1" />
+        <entry key="../../../../private/var/root/AndroidStudioProjects/nutricao-pdm2/app/src/main/res/layout/fragment_chatbot.xml" value="0.1539855072463768" />
+        <entry key="../../../../private/var/root/AndroidStudioProjects/nutricao-pdm2/app/src/main/res/layout/fragment_execises.xml" value="0.1539855072463768" />
+        <entry key="../../../../private/var/root/AndroidStudioProjects/nutricao-pdm2/app/src/main/res/layout/fragment_foods.xml" value="0.1539855072463768" />
+        <entry key="../../../../private/var/root/AndroidStudioProjects/nutricao-pdm2/app/src/main/res/layout/fragment_forgot.xml" value="0.1539855072463768" />
         <entry key="../../../../private/var/root/AndroidStudioProjects/nutricao-pdm2/app/src/main/res/layout/fragment_new_home.xml" value="0.1" />
+        <entry key="../../../../private/var/root/AndroidStudioProjects/nutricao-pdm2/app/src/main/res/layout/fragment_onboarding.xml" value="0.1539855072463768" />
+        <entry key="../../../../private/var/root/AndroidStudioProjects/nutricao-pdm2/app/src/main/res/layout/fragment_onboarding_first.xml" value="0.1539855072463768" />
+        <entry key="../../../../private/var/root/AndroidStudioProjects/nutricao-pdm2/app/src/main/res/layout/fragment_onboarding_fourth.xml" value="0.1539855072463768" />
+        <entry key="../../../../private/var/root/AndroidStudioProjects/nutricao-pdm2/app/src/main/res/layout/fragment_onboarding_second.xml" value="0.1539855072463768" />
+        <entry key="../../../../private/var/root/AndroidStudioProjects/nutricao-pdm2/app/src/main/res/layout/fragment_onboarding_third.xml" value="0.1539855072463768" />
+        <entry key="../../../../private/var/root/AndroidStudioProjects/nutricao-pdm2/app/src/main/res/layout/fragment_signup.xml" value="0.1539855072463768" />
+        <entry key="../../../../private/var/root/AndroidStudioProjects/nutricao-pdm2/app/src/main/res/layout/fragment_test.xml" value="0.1539855072463768" />
         <entry key="../../../../private/var/root/AndroidStudioProjects/nutricao-pdm2/app/src/main/res/layout/item_list_food.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_app.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_forgot.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_login.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_sign_up.xml" value="0.1" />
       </map>
     </option>
   </component>
